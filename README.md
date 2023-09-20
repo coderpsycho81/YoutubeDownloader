@@ -6,12 +6,10 @@ Next, choose the format in which you want to download the video.
 Finally, click the 'Download' button to start downloading the video to your selected location.
 Note: Keep in mind that the process may take a bit of time.
 
-<img src="C:\Users\coderpsycho\Desktop\Admin/Adsız.png" alt="alt text" width="320" height="180">
-
+<img src="https://github.com/coderpsycho81/YoutubeDownloader/blob/main/Ads%C4%B1z.png" alt="alt text" width="320" height="180">
 
 # 💫 About Me:
 💎I'm Software Engineer<br>💻I'm Game Developer & AR-VR Game Developer<br>👨🏻‍💻I'm Full Stack Developer<br>👾I'm C# Desktop Application Developer<br>🕵🏻I'm Cyber Security Tools Developer
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_𝖈𝖔𝖉𝖊𝖗𝖕𝖘𝖞𝖈𝖍𝖔#9517) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kerim_boztepe8118) 
